@@ -2,6 +2,7 @@
 
     --font: 'Montserrat',sans-serif;
     --green: #608a60;
+    --green-dark: #4d6f4d;
     --black: #262626;
     --grey: #5a5a5a;
     --link: #00798f;
@@ -166,7 +167,7 @@ li h3 {
 .title h3 {
     font-weight: 100;
     font-size: 1.2rem;
-    color: var(--green);
+    color: var(--green-dark);
 }
 
 .subtitle {
@@ -228,7 +229,7 @@ li h3 {
 }
 
 .round {
-    background-color: var(--green);
+    background-color: var(--green-dark);
     color: white;
     padding: 8px 32px;
     border-radius: 15px;
